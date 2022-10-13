@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/static/css/main.924a1385.css",
+    "main.js": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/static/js/main.e0704c7f.js",
+    "static/js/787.1167ab56.chunk.js": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/static/js/787.1167ab56.chunk.js",
+    "index.html": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/index.html",
+    "main.924a1385.css.map": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/static/css/main.924a1385.css.map",
+    "main.e0704c7f.js.map": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/static/js/main.e0704c7f.js.map",
+    "787.1167ab56.chunk.js.map": "/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas/static/js/787.1167ab56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924a1385.css",
+    "static/js/main.e0704c7f.js"
+  ]
+}
