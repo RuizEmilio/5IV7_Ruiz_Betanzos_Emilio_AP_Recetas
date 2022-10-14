@@ -13,7 +13,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path="/" element={<ex.Home/>} />
+        <Route exact path="/5IV7_Ruiz_Betanzos_Emilio_AP_Recetas" element={<ex.Home/>} />
         <Route exact path="/:id" element={<ex.DetailRecipeComponent/>}/>
       </Routes>
     </BrowserRouter>
